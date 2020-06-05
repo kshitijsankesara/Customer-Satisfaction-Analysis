@@ -1,8 +1,9 @@
 # Customer-Satisfaction-Analysis
 
-**Introduction:** To help our client Southeast Airlines to improve its quality, we designed this project to research factors that will highly influence their client's satisfaction. We analyzed the Airline Customer data to find ways that can lead to an increase in customer satisfaction. This was a part of our IST 687: Data Science coursework. Our entire analysis was done using R programming.
+**Introduction:** To help our client Southeast Airlines to improve its quality, we designed this project to research factors that will highly influence their client's satisfaction. We analyzed the Airline Customer data to find ways that can lead to an increase in customer satisfaction. This was a part of our IST 687: Data Science coursework. Our entire analysis was done using **R programming**.
 
 **Programming Language:** R (dplyr, ggplot2, arules, arulesViz, e1071)
+
 **Tools:** Trello, Microsoft PowerPoint  
 
 **Dataset:** Southeast Airlines collected data via the internet and surveys. This dataset contains a total of 28 variables. Our target variable is the Satisfaction variable. It contained approximately 130k observations. The dataset was for the first three months of 2014 i.e. from January 2014 to March 2014. 
